@@ -1,12 +1,12 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2342D2DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!--
 :seedling: 1일 1 commit이 목표(라고 쓰고 공부 좀 하기...)
 
 현재는 캡스톤 프로젝트로 WebRTC 공부 ING.. 
 
 진로는 아직 고민 중....
-
+-->
 
 
 ### :mortar_board: Graduation
