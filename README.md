@@ -27,7 +27,9 @@ Web, 데이터
 <img src="https://img.shields.io/badge/Pytorch-FF8527?style=flat-square&logo=Pytorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/></a> 
 
-
+### 👨‍💻 Project
+* HIT THE HEATER (가정용 안전 히터 IOT 제작)
+* WebRTC를 이용한 웹기반 실시간 스트리밍 로봇
 
 <!--
 **sejeong-park/sejeong-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
