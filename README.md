@@ -9,7 +9,6 @@
 
 
 > 🎓 Sejong Univ. Intelligence Mechatronic Engineering<br>
-> 🔎 삼성 청년 SW 아카데미 (SSAFY) 10기
 
 ```
 🌱 To be a Data Engineer
@@ -48,8 +47,6 @@
 * `2021.03 ~ 2021.08`  SAI CV Team 
 * `2021.10 ~ 2022.12`  Crowdworks Data Engineering Team
 * `2022.04 ~ 2022.06`  실리콘밸리에서 날라온 데이터 엔지니어링 스타터 8기
-* `2023.04 ~ 2023.07`  데이터엔지니어링 데브코스 1기 (중도퇴소)
-* `2023.07 ~`          SSAFY 10기
   
 </div>
 </details>
