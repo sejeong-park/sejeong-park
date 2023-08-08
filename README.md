@@ -26,7 +26,7 @@
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white"/></a>
 <br>
 <a><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/></a> 
-<a><img src="https://img.shields.io/badge/spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/></a> 
+
 <a><img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/></a> 
 <a><img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/></a> 
 <a><img src="https://img.shields.io/badge/looker-4285F4?style=flat&logo=looker&logoColor=white"/></a> 
