@@ -8,7 +8,6 @@
 <img align="right" src="https://github.com/sejeong-park/sejeong-park/assets/62873925/3124c1e6-6acd-48c9-bbc7-3f8e40bd2d6d" width = "300" height = "300"/>
 
 
-> 🎓 Sejong Univ. Intelligence Mechatronic Engineering<br>
 
 ```
 🌱 To be a Data Engineer
